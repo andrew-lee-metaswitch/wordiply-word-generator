@@ -1,0 +1,444 @@
+{
+  "above": {
+    "aboveground": 2.3,
+    "hereinabove": 1.44
+  },
+  "alan": {
+    "metacarpophalangeal": 1.31,
+    "metatarsophalangeal": 1.19
+  },
+  "alpha": {
+    "alphabetization": 1.14
+  },
+  "audio": {
+    "audiologist": 2.03,
+    "audiometric": 1.25
+  },
+  "aware": {
+    "unawareness": 1.9
+  },
+  "away": {
+    "straightaway": 2.64
+  },
+  "beach": {
+    "beachcombing": 1.6
+  },
+  "bench": {
+    "frontbencher": 1.49
+  },
+  "best": {
+    "diethylstilbestrol": 1.59
+  },
+  "bet": {
+    "alphabetization": 1.14,
+    "flibbertigibbet": 1.21
+  },
+  "bill": {
+    "billingsgate": 1.98
+  },
+  "birth": {
+    "afterbirth": 2.02,
+    "birthplace": 3.37,
+    "birthright": 3.02,
+    "birthstone": 2.34,
+    "childbirth": 3.42,
+    "stillbirth": 2.41,
+    "unbirthday": 1.4
+  },
+  "blame": {
+    "blameworthiness": 1.11
+  },
+  "blood": {
+    "bloodthirstiness": 1.16
+  },
+  "boat": {
+    "boatbuilding": 1.79
+  },
+  "bomb": {
+    "bombastically": 1.13
+  },
+  "boost": {
+    "boosterism": 1.45
+  },
+  "bow": {
+    "disembowelment": 1.57
+  },
+  "break": {
+    "heartbreakingly": 2.03
+  },
+  "chase": {
+    "steeplechaser": 1.55
+  },
+  "chat": {
+    "eschatological": 2.27
+  },
+  "clear": {
+    "polymorphonuclear": 1.39
+  },
+  "cliff": {
+    "undercliff": 1.37
+  },
+  "clock": {
+    "counterclockwise": 2.62
+  },
+  "comes": {
+    "comestible": 1.15
+  },
+  "cream": {
+    "screamingly": 1.45
+  },
+  "crew": {
+    "screwdriver": 3.13
+  },
+  "crop": {
+    "micropaleontology": 1.12
+  },
+  "daddy": {
+    "granddaddy": 2.35
+  },
+  "diary": {
+    "intermediary": 3.18
+  },
+  "die": {
+    "diethylstilbestrol": 1.59
+  },
+  "diet": {
+    "diethylstilbestrol": 1.59
+  },
+  "drama": {
+    "melodramatically": 1.57
+  },
+  "drunk": {
+    "drunkenness": 2.89
+  },
+  "dump": {
+    "antidumping": 1.52
+  },
+  "eaten": {
+    "threateningly": 2.0,
+    "unthreatening": 1.75
+  },
+  "eight": {
+    "counterweighted": 1.13
+  },
+  "elect": {
+    "electroencephalography": 2.05
+  },
+  "era": {
+    "keratoconjunctivitis": 1.33
+  },
+  "error": {
+    "counterterror": 1.62
+  },
+  "extra": {
+    "extraterritoriality": 1.67
+  },
+  "fatal": {
+    "fatalistically": 1.12
+  },
+  "feed": {
+    "breastfeeding": 3.5
+  },
+  "fight": {
+    "bullfighting": 2.46,
+    "cockfighting": 2.11
+  },
+  "final": {
+    "semifinalist": 2.09
+  },
+  "folk": {
+    "folkloristic": 1.33
+  },
+  "freak": {
+    "freakishness": 1.05
+  },
+  "goal": {
+    "goalkeeping": 2.68
+  },
+  "god": {
+    "oligodendroglioma": 1.16
+  },
+  "golf": {
+    "montgolfier": 1.57
+  },
+  "grant": {
+    "nonimmigrant": 1.88
+  },
+  "gulf": {
+    "engulfment": 1.49
+  },
+  "hour": {
+    "afterhours": 1.73
+  },
+  "iron": {
+    "environmentalism": 2.69,
+    "environmentalist": 2.92
+  },
+  "join": {
+    "disjointedness": 1.08
+  },
+  "joint": {
+    "disjointedness": 1.08
+  },
+  "judge": {
+    "misjudgement": 1.64
+  },
+  "kind": {
+    "prekindergarten": 1.96
+  },
+  "knife": {
+    "pocketknife": 1.93
+  },
+  "known": {
+    "unbeknownst": 2.77
+  },
+  "labor": {
+    "collaborationist": 1.68
+  },
+  "light": {
+    "lightheartedness": 1.61
+  },
+  "lock": {
+    "counterclockwise": 2.62
+  },
+  "lord": {
+    "overlordship": 1.75
+  },
+  "luke": {
+    "lukewarmness": 1.24
+  },
+  "lunch": {
+    "luncheonette": 1.64
+  },
+  "lung": {
+    "bremsstrahlung": 1.7
+  },
+  "mean": {
+    "meaninglessness": 2.13
+  },
+  "meet": {
+    "meetinghouse": 1.95
+  },
+  "month": {
+    "semimonthly": 1.23,
+    "twelvemonth": 1.55
+  },
+  "more": {
+    "thermoregulation": 1.95
+  },
+  "never": {
+    "nevertheless": 4.25
+  },
+  "new": {
+    "newsworthiness": 1.46
+  },
+  "news": {
+    "newsworthiness": 1.46
+  },
+  "night": {
+    "nightmarishly": 1.26
+  },
+  "noon": {
+    "midafternoon": 1.84
+  },
+  "pants": {
+    "underpants": 2.92
+  },
+  "plane": {
+    "interplanetary": 2.82
+  },
+  "plug": {
+    "unplugging": 2.32
+  },
+  "poor": {
+    "whippoorwill": 1.74
+  },
+  "punch": {
+    "counterpunch": 2.01
+  },
+  "pussy": {
+    "pussyfooting": 1.75
+  },
+  "queen": {
+    "queensberry": 2.07
+  },
+  "range": {
+    "prearrangement": 1.31
+  },
+  "rate": {
+    "extraterritoriality": 1.67
+  },
+  "rev": {
+    "counterrevolutionary": 2.08
+  },
+  "rich": {
+    "trichloroethylene": 1.75
+  },
+  "role": {
+    "hypercholesterolemia": 1.99
+  },
+  "run": {
+    "interuniversity": 1.45
+  },
+  "scare": {
+    "scaremongering": 2.37
+  },
+  "screw": {
+    "screwdriver": 3.13
+  },
+  "seat": {
+    "nauseatingly": 1.61
+  },
+  "sense": {
+    "senselessness": 1.76
+  },
+  "sharp": {
+    "sharpshooting": 1.78
+  },
+  "shock": {
+    "electroshock": 2.29
+  },
+  "shoot": {
+    "sharpshooting": 1.78
+  },
+  "short": {
+    "shortsightedness": 1.85
+  },
+  "show": {
+    "thundershower": 1.16
+  },
+  "sight": {
+    "shortsightedness": 1.85
+  },
+  "size": {
+    "photosynthesize": 1.63
+  },
+  "sleep": {
+    "sleeplessness": 2.3
+  },
+  "smash": {
+    "smashingly": 1.11
+  },
+  "smith": {
+    "silversmithing": 1.55
+  },
+  "snap": {
+    "whippersnapper": 1.8
+  },
+  "snow": {
+    "snowshoeing": 2.15
+  },
+  "soul": {
+    "soullessness": 1.14
+  },
+  "staff": {
+    "quarterstaff": 1.51
+  },
+  "story": {
+    "storytelling": 3.66
+  },
+  "study": {
+    "understudy": 2.75
+  },
+  "suck": {
+    "bloodsucking": 1.97
+  },
+  "sum": {
+    "presumptuousness": 1.25,
+    "underconsumption": 1.11
+  },
+  "their": {
+    "theirselves": 1.89
+  },
+  "these": {
+    "parentheses": 3.13
+  },
+  "thin": {
+    "untrustworthiness": 1.31
+  },
+  "thus": {
+    "unenthusiastically": 1.4
+  },
+  "title": {
+    "entitlement": 3.55,
+    "titleholder": 1.93
+  },
+  "total": {
+    "totalitarianism": 2.82
+  },
+  "tower": {
+    "watchtower": 2.85
+  },
+  "trust": {
+    "untrustworthiness": 1.31
+  },
+  "two": {
+    "untrustworthiness": 1.31
+  },
+  "under": {
+    "underrepresentation": 1.92
+  },
+  "union": {
+    "intercommunion": 1.15
+  },
+  "unit": {
+    "intercommunity": 1.14
+  },
+  "unity": {
+    "intercommunity": 1.14
+  },
+  "urge": {
+    "electrosurgery": 1.23
+  },
+  "usual": {
+    "unusualness": 1.09
+  },
+  "vast": {
+    "devastatingly": 2.35
+  },
+  "voice": {
+    "voicelessness": 1.03
+  },
+  "vol": {
+    "counterrevolutionary": 2.08
+  },
+  "war": {
+    "straightforwardness": 1.87
+  },
+  "ward": {
+    "straightforwardness": 1.87
+  },
+  "wave": {
+    "unwaveringly": 1.72
+  },
+  "week": {
+    "semiweekly": 1.17
+  },
+  "whip": {
+    "whippersnapper": 1.8
+  },
+  "whom": {
+    "whomsoever": 1.95
+  },
+  "world": {
+    "otherworldliness": 1.28
+  },
+  "worry": {
+    "worryingly": 2.28
+  },
+  "worth": {
+    "untrustworthiness": 1.31
+  },
+  "write": {
+    "teletypewriter": 1.25
+  },
+  "your": {
+    "yourselves": 3.86
+  },
+  "yours": {
+    "yourselves": 3.86
+  },
+  "near": {
+    "nearsightedness": 1.7
+  }
+}
