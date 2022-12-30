@@ -8,13 +8,13 @@ These are words that are:
   - Are substrings of much longer words (i.e. words of at least 10 letters)
   - Of all of the words that are of the longest length, at least one of them is 'common'
 
-We define commonness using https://pypi.org/project/wordfreq/ - any positive value for the `zipf_frequency` - deems a word to be common
+We define commonness using [wordfreq](https://pypi.org/project/wordfreq/) - any positive value for the `zipf_frequency` (that is, more common than one in a billion words) - deems a word to be common
 
-Requirements:
+## Requirements:
  - python3
- - install wordfrew and nltk
+ - install wordfreq and nltk:
 ```
 pip install wordfreq
 pip install nltk
 ```
-  - Use `nltk` to download the 'popular' word list
+  - Before running this script, run `nltk` to download the 'popular' word list
